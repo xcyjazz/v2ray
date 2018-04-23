@@ -1,1 +1,1 @@
-# 这是一篇关于ShadowsocksR的教程
+# 这是一篇关于V2ray的教程
